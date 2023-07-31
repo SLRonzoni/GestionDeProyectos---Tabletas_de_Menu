@@ -1,5 +1,5 @@
-Gestión de Proyectos - Proyecto : Tabletas de Menu
-------------------------------------------------
+Gestión de Proyectos - Proyecto : Tabletas de Menú
+--------------------------------------------------
 
 
 Descripción
